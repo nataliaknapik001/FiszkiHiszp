@@ -1,4 +1,4 @@
-# FiszkiHiszp 🇪🇸
+# FiszkiHiszp
 
 Aplikacja do nauki języka hiszpańskiego - fiszki hiszpańsko - polskie.
 
