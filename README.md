@@ -85,4 +85,4 @@ Celem projektu było stworzenie aplikacji ułatwiającej naukę języka hiszpań
 - systemu kontroli wersji Git
 
 ## Autor
-**Natalia Knapik** 
+**Natalia Knapik** wraz **Agnieszka Gazińska** - projekt akademicki
