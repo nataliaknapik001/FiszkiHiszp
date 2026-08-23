@@ -1,0 +1,16 @@
+# NetBeans
+/build (1)/
+/dist (1)/
+/nbproject (1)/
+
+# Java
+*.class
+
+# System
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
+*.local
