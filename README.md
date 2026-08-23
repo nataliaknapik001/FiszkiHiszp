@@ -4,7 +4,7 @@ Aplikacja do nauki języka hiszpańskiego - fiszki hiszpańsko - polskie.
 
 Projekt został wykonany w języku Java z wykorzystaniem Java Swing oraz Microsoft SQL Server. Aplikacja umożliwia zarządzanie słownictwem, naukę słówek oraz zapisywanie wyników nauki.
 
-## ✨ Funkcje
+## Funkcje
 
 - przeglądanie kategorii,
 - przeglądanie słówek w wybranej kategorii,
@@ -16,7 +16,7 @@ Projekt został wykonany w języku Java z wykorzystaniem Java Swing oraz Microso
 - przeglądanie statystyk nauki,
 - przechowywanie danych w Microsoft SQL Server.
 
-## 🛠 Technologie
+## Technologie
 
 - **Java**
 - **Java Swing**
@@ -25,7 +25,7 @@ Projekt został wykonany w języku Java z wykorzystaniem Java Swing oraz Microso
 - **NetBeans / Apache Ant**
 
 
-## 🗄 Baza danych
+## Baza danych
 
 Aplikacja korzysta z bazy danych **Microsoft SQL Server**.
 
